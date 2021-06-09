@@ -1,3 +1,5 @@
+**Note:** This solution is suitable for Lorawan-Gateway based on RaspberryPi3b+ with chi2-PCB and IMST-iC880a-SPI Board, balena.cloud operated with [Draseks](https://github.com/Drasek)´ fork of this [repository](https://github.com/AmedeeBulle/ttn-gateway-containers) to use a multi-container configuration. Also see [repo](https://github.com/ch2i/iC880A-Raspberry-PI) before for technical documentation and layout of the PCB) This is a step by step description how to upgrade your ttn lorawan gateway with environmental sensor (Bosch BME280) and digital voltmeter for monitoring input voltage supply.
+
 # TTN LoRaWAN Gateway upgrade 
 
 Overview and steps:
@@ -8,7 +10,6 @@ Overview and steps:
  - [update software](https://github.com/jensileinchen/gateway-hardware-upgrade#gateway-upgrade-software)
  - [testing](https://github.com/jensileinchen/gateway-hardware-upgrade#we-can-check-the-new-sensor---working-and-measuring-environmental-data-directly-from-balenacloud-very-easy)
  
-**Note:** This solution is suitable for Lorawan-Gateway based on RaspberryPi3b+ with chi2-PCB and IMST-iC880a-SPI Board, balena.cloud operated with [Draseks](https://github.com/Drasek)´ fork of this [repository](https://github.com/AmedeeBulle/ttn-gateway-containers) to use a multi-container configuration. Also see [repo](https://github.com/ch2i/iC880A-Raspberry-PI) before for technical documentation and layout of the PCB) This is a step by step description how to upgrade your ttn lorawan gateway with environmental sensor (Bosch BME280) and digital voltmeter for monitoring input voltage supply.
 
 ## Parts needed for upgrading your existing gateway ch2i PCB with sensor and voltmeter
 
