@@ -24,7 +24,7 @@ Overview and steps:
 -	Open your station-box (or the housing from your system)
 -	Disconnect any wiring from your device, also the pigtail antenna from the IMST-IC880A board and the LAN-Cable from the RaspberryPi3, power supply from PCB-board
 -	Remove the complete gateway-unit out of the housing
--	Seperate the IMST-IC880A from the PCB --- be careful as this concentrator board is EMD sensitive (and expensive, too) – discharge yourself before touching it or use ESD equipment
+-	Seperate the IMST-IC880A from the PCB --- be careful as this concentrator board is EMD sensitive (and expensive, too) – discharge yourself before touching it or use ESD equipment for disasembling the device
 -	Remove the screws that are fixing the PCB with the RaspberryPi3 to disconnect the two boards
 
 ## Gateway upgrade (Hardware)
